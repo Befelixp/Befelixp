@@ -1,4 +1,3 @@
-<h1 align="center">Bernardo Pedro</h1>
 <h3 align="center">Mestrando em Engenharia Informática @ UC • Full‑Stack Developer</h3>
 
 ---

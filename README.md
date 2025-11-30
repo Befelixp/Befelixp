@@ -37,5 +37,11 @@
 ### 🕹️ CAVE
 Repositório: [CAVE](https://github.com/Befelixp/web-cave)  
 
-Aplicação web focada em \<coloca aqui em 1–2 frases o objetivo do projeto\>  
-- Tecnologias: Next.js, React, Prisma, PostgreSQL  
+Aplicação de gerenciamento de compras de casa.  
+- Tecnologias: Next.js, React, Prisma, PostgreSQL
+
+### 🌏 Googol
+Repositório: [Googol](https://github.com/Befelixp/SD-project-googol)
+
+Aplicação que utiliza webcrawler para simular um motor de pesquisa semelhante ao Google.
+- Tecnologias: Java, SpringBoot, Thymeleaf

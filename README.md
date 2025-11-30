@@ -1,27 +1,42 @@
+<h1 align="center">Bernardo Pedro</h1>
+<h3 align="center">Mestrando em Engenharia Informática @ UC • Full‑Stack Developer</h3>
 
-<div align="center">
-Mestrado em Engenharia Informática na Universidade de Coimbra, com foco em desenvolvimento full-stack.
-</div>
-Sobre Mim
+---
 
-    Educação: Bacharel em Engenharia Informática (UC, 2018-2021) | Mestrado em Engenharia de Software (em andamento, 2021-2025).
+## 🌍 Sobre mim
 
-    Experiência: Desenvolvi aplicações web escaláveis em projetos reais; participei de ENEI (2023-2024) e Shift APPens (2024-2025).
+- 🎓 Mestrado em Engenharia Informática, Universidade de Coimbra – foco em desenvolvimento full‑stack.  
+- 🎓 Bacharel em Engenharia Informática (UC, 2018‑2021).  
+- 💼 Experiência em desenvolvimento de aplicações web escaláveis em projetos académicos e reais.  
+- 🚀 Participante em ENEI (2023–2024) e Shift APPens (2024–2025).  
+- 💡 Interesses: inovação em software, desenvolvimento colaborativo, desafios de programação e tecnologias emergentes.
+- 💪 Hobby: Gosto de ir ao ginásio, jogar jogos na steam e socializar.
 
-    Interesses: Inovação em software, desenvolvimento colaborativo, desafios de programação e tecnologias emergentes.
+---
 
-Habilidades
-<div align="center">
-Linguagens & Frameworks
+## 🛠️ Tecnologias
 
-    Linguagens: Java, Python, JavaScript, TypeScript, SQL, C, HTML/CSS
+### Linguagens
+- Java • Python • JavaScript • TypeScript • SQL • C • HTML • CSS  
 
-    Frameworks: React, Next.js, Django, Prisma, Tailwind CSS, React Native, Expo
+### Frameworks & Bibliotecas
+- React • Next.js • Django  
+- Prisma • Tailwind CSS  
+- React Native • Expo  
 
-    Bancos de Dados: MySQL, PostgreSQL
+### Bases de Dados
+- MySQL • PostgreSQL  
 
-    Ferramentas: Docker, GitHub Actions (CI/CD)
+### DevOps & Ferramentas
+- Docker  
+- Git • GitHub • GitHub Actions (CI/CD)  
 
-</div>
-Projetos em Destaque
-[CAVE](https://github.com/Befelixp/web-cave)
+---
+
+## 🔥 Projetos em destaque
+
+### 🕹️ CAVE
+Repositório: [CAVE](https://github.com/Befelixp/web-cave)  
+
+Aplicação web focada em \<coloca aqui em 1–2 frases o objetivo do projeto\>  
+- Tecnologias: Next.js, React, Prisma, PostgreSQL  

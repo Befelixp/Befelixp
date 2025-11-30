@@ -24,5 +24,4 @@ Linguagens & Frameworks
 
 </div>
 Projetos em Destaque
-
-    [CAVE](https://github.com/Befelixp/web-cave)
+[CAVE](https://github.com/Befelixp/web-cave)

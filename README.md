@@ -4,7 +4,7 @@
 
 ## 🌍 Sobre mim
 
-- 🎓 Mestrado em Engenharia Informática, Universidade de Coimbra – foco em desenvolvimento full‑stack.  
+- 🎓 Mestrado em Engenharia Informática, Universidade de Coimbra – foco em Engenharia de Software.  
 - 🎓 Bacharel em Engenharia Informática (UC, 2018‑2021).  
 - 💼 Experiência em desenvolvimento de aplicações web escaláveis em projetos académicos e reais.  
 - 🚀 Participante em ENEI (2023–2024) e Shift APPens (2024–2025).  
